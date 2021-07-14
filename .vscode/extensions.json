@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "pkief.material-icon-theme",
+        "csstools.postcss",
+        "streetsidesoftware.code-spell-checker",
+        "esbenp.prettier-vscode",
+        "clinyong.vscode-css-modules",
+        "juanblanco.solidity",
+        "bradlc.vscode-tailwindcss"
+    ]
+}
