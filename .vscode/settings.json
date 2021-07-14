@@ -1,46 +1,13 @@
 {
-    "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
-    "editor.fontLigatures": true,
-    "editor.fontWeight": "500",
-    "workbench.startupEditor": "newUntitledFile",
-    "editor.renderWhitespace": "all",
-    "workbench.colorTheme": "Monokai",
-    "terminal.integrated.shell.linux": "/bin/bash",
-    "editor.minimap.enabled": false,
-    "diffEditor.ignoreTrimWhitespace": true,
-    "typescript.validate.enable": true,
-    "git.autofetch": true,
-    "extensions.ignoreRecommendations": false,
-    "javascript.format.enable": false,
-    "typescript.format.enable": false,
-    "javascript.validate.enable": false,
-    "editor.formatOnSave": true,
-    "[javascript]": {
-        "editor.formatOnSave": false,
-        "editor.codeActionsOnSave": {
-            "source.fixAll.eslint": true
-        },
-    },
-    "[javascriptreact]": {
-        "editor.formatOnSave": false,
-        "editor.codeActionsOnSave": {
-            "source.fixAll.eslint": true
-        },
-    },
-    "[typescript]": {
-        "editor.formatOnSave": false,
-        "editor.codeActionsOnSave": {
-            "source.fixAll.eslint": true
-        },
-    },
-    "[typescriptreact]": {
-        "editor.formatOnSave": false,
-        "editor.codeActionsOnSave": {
-            "source.fixAll.eslint": true
-        },
-    },
-    "eslint.alwaysShowStatus": true,
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "git.ignoreLimitWarning": true,
-    "window.zoomLevel": 0.25,
+  "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+  "window.zoomLevel": 2.5,
+  "git.autofetchPeriod": 300,
+  "git.autofetch": true,
+  "git.pruneOnFetch": true,
+  "git.fetchOnPull": true,
+  "workbench.colorTheme": "Monokai",
+  "workbench.iconTheme": "material-icon-theme",
+  "search.exclude": {
+    "package*.json": true
+  }
 }
